@@ -1,0 +1,4 @@
+whisper
+groq
+gtts
+streamlit
